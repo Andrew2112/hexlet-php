@@ -1,0 +1,11 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Andrey",
+            "email": "taf_397@yahoo.com"
+        }
+    ],
+    "require": {}
+}
